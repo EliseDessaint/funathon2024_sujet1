@@ -1,5 +1,6 @@
 # Funathon 2024 - Sujet 1 :star:
 
+truc 
 Visualiser les émissions de C02 liées à une mesure de restriction de liaison aérienne relativement à des durées de trajets ferroviaires.
 
 ## Grandes parties
